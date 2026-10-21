@@ -1,23 +1,61 @@
-<h1 align="center">Hi 👋 I'm MrPandayx</h1>
+<div align="center">
 
-# 💫 About Me:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+MrPandayx+%F0%9F%91%8B;Developer+from+Prague+%F0%9F%87%A8%F0%9F%87%BF;Web+%C2%B7+Games+%C2%B7+macOS+apps" alt="Typing intro" />
 
+<p>
+  <a href="https://mrpandayx.com"><img src="https://img.shields.io/badge/Portfolio-mrpandayx.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" /></a>
+  <a href="mailto:contact@mrpandayx.dev"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MrPandayx&style=for-the-badge&color=0d1117&label=Profile+views" alt="Profile views" />
+</p>
 
-# 💻 Tech Stack:
-Languages: 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+</div>
 
+---
 
-Developer Tools: 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### About me
 
+I'm a developer based in **Prague, Czech Republic**. I enjoy turning ideas into working products, from Python tools and browser games to full-stack web apps and native macOS utilities.
 
-# 🎓 What am i learning rn
-Im now Learning Backend Python-Typescript on - [Boot.Dev](https://www.boot.dev/) 
-And Learning HTML, CSS with Youtube tutorials and books 📚
+- 🔭 Currently building **[Astronow](https://astronow.mrpandayx.com)**, a space survival game with 1000 levels and 20 bosses
+- 🍎 Working on a lightweight macOS menu bar manager in **Swift**
+- 🌱 Deepening my backend skills (Python & TypeScript) on [Boot.dev](https://www.boot.dev/)
+- 💬 Open to collaboration on web and game projects
 
+### Tech stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,swift,react,nodejs,html,css,tailwind,supabase,vercel,git,github,vscode&perline=7" alt="Tech stack" />
+</p>
 
+### Featured projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| 🚀 [**Astronow**](https://astronow.mrpandayx.com) | Space survival game: dodge asteroids, beat bosses, survive the levels | React · JavaScript |
+| 🌐 [**Portfolio**](https://github.com/MrPandayx/MrPandayx.github.io) | Bilingual (EN/CZ) personal site, accessible and responsive | HTML · CSS · JS |
+| 🎰 [**Slotmachine.py**](https://github.com/MrPandayx/Slotmachine.py) | Terminal slot machine with multi-language support | Python |
+
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrPandayx&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPandayx&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MrPandayx&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrPandayx&theme=github_dark" alt="Contribution summary" />
+</p>
+
+### Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrPandayx/MrPandayx/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrPandayx/MrPandayx/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MrPandayx/MrPandayx/output/github-snake.svg" />
+  </picture>
+</p>
