@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm MrPandayx</h1>
 
 # 💫 About Me:
-Im young guy who loves computers and is interested in coding I am trying to learn how to code ❤️
+
 
 # 💻 Tech Stack:
 Languages: 
